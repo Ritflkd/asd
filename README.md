@@ -1,1 +1,49 @@
-c3NyOi8vZFhNdWNYRjNlRFl1ZUhsNk9qTXpPRGs2YjNKcFoybHVPbUZsY3kweE1qZ3RZMlppT25Cc1lXbHVPbGR1Vms5YVIyUmhWVzAxVmxkVmRHcGFSWE40VGtkamVGRlVhRkpPZWtaMVZtcE9XVk5uTHo5dlltWnpjR0Z5WVcwOUpuSmxiV0Z5YTNNOU5VeHBkRFZhZFRsUGFsRW1aM0p2ZFhBOVVtNUtiRnBXVGxSVmFURjNaRmRLYzJGWFRRCnNzcjovL05qRXVNVFF1TWpFd0xqSXpPVG96TmpFek16cHZjbWxuYVc0NllXVnpMVEkxTmkxalptSTZjR3hoYVc0NlpVWkNUMVpIVmxObFJWSkRUVE5WZVZGV1RtMVNNakZUWVdwV1YwNHdaRmN2UDI5aVpuTndZWEpoYlQwbWNtVnRZWEpyY3owMVRHbDBOVnAxT1U5cVRTWm5jbTkxY0QxU2JrcHNXbFpPVkZWcE1YZGtWMHB6WVZkTgpzc3I6Ly9ZMjB5TG5GeGQzZzJMbmg1ZWpvMU5EUXpPbTl5YVdkcGJqcGhaWE10TVRJNExXTm1ZanB3YkdGcGJqcGpSbXcwV1ZkT2JHRkhVVFJOUjJ4WFRXMUtOVkZzUWpVdlAyOWlabk53WVhKaGJUMG1jbVZ0WVhKcmN6MDFUR2wwTlZwMU9VOXFTU1puY205MWNEMVNia3BzV2xaT1ZGVnBNWGRrVjBwellWZE4Kc3NyOi8vWTIweUxuRnhkM2cyTG5oNWVqb3pNemc1T205eWFXZHBianBoWlhNdE1USTRMV05tWWpwd2JHRnBianBpYld3eFltMXNNVmt5YUdoWk1taG9UVlJKZWk4X2IySm1jM0JoY21GdFBTWnlaVzFoY210elBUVk1hWFExV25VNVQycEZKbWR5YjNWd1BWSnVTbXhhVms1VVZXa3hkMlJYU25OaFYwMApzc3I6Ly9kSGN1Y1hGM2VEWXVlSGw2T2pnME5ETTZiM0pwWjJsdU9tRmxjeTB4TWpndFkyWmlPbkJzWVdsdU9sZHVWazlhUjJSaFZXMDFWbGRWZEdwYVJYTjRUa2RqZUZGVWFGSk9la1oxVm1wT1dWTm5Mejl2WW1aemNHRnlZVzA5Sm5KbGJXRnlhM005TlV4cGREVmFkVGxQYWtFbVozSnZkWEE5VW01S2JGcFdUbFJWYVRGM1pGZEtjMkZYVFEKc3NyOi8vTVRjeUxqRXdOQzQ1T1M0eU1UQTZPREE1TnpwdmNtbG5hVzQ2WVdWekxUSTFOaTFqWm1JNmNHeGhhVzQ2V2xWc1dFMUZVblZoZWxrMVRrUlZNRnBVV25WVk0yUXhZek5DTWs5VlVuUlZla2wzVFZoU1VrMUZVUzhfYjJKbWMzQmhjbUZ0UFNaeVpXMWhjbXR6UFRWd1pXdzFjSGx6Sm1keWIzVndQVkp1U214YVZrNVVWV2t4ZDJSWFNuTmhWMDAKc3NyOi8vTWpFekxqRTRNeTQxTXk0eE9EZzZPVEF4TURwdmNtbG5hVzQ2WVdWekxUSTFOaTFqWm1JNmNHeGhhVzQ2V21wWmVsb3lZelJTV0VveFVrYzFWbU50TVRaT1FTOF9iMkptYzNCaGNtRnRQU1p5WlcxaGNtdHpQVFZNTFVVMU56SllOWEJoZGs5cVJTWm5jbTkxY0QxU2JrcHNXbFpPVkZWcE1YZGtWMHB6WVZkTgpzc3I6Ly9NakV6TGpFNE15NDFNeTR5TlRRNk9UQXlOenB2Y21sbmFXNDZZV1Z6TFRJMU5pMWpabUk2Y0d4aGFXNDZVbFpvVDAweFRYcGFWa1ozWVd0Vk0xSlZjREZQUVM4X2IySm1jM0JoY21GdFBTWnlaVzFoY210elBUVk1MVVUxTnpKWU5YQmhkazlxU1NabmNtOTFjRDFTYmtwc1dsWk9WRlZwTVhka1YwcHpZVmROCnNzcjovL01qRXpMakU0TXk0MU15NHlNamM2T1RBeU56cHZjbWxuYVc0NllXVnpMVEkxTmkxalptSTZjR3hoYVc0NlVsWm9UMDB4VFhwYVZrWjNZV3RWTTFKVmNERlBRUzhfYjJKbWMzQmhjbUZ0UFNaeVpXMWhjbXR6UFRWTUxVVTFOekpZTlhCaGRrOXFUU1puY205MWNEMVNia3BzV2xaT1ZGVnBNWGRrVjBwellWZE4Kc3NyOi8vTWpFekxqRTRNeTQxTXk0eE5UVTZPVEEwTXpwdmNtbG5hVzQ2WVdWekxUSTFOaTFqWm1JNmNHeGhhVzQ2VTBaT1lXUlliRXRWVjA1WVdsUm9hMlZGTld0U1p5OF9iMkptYzNCaGNtRnRQU1p5WlcxaGNtdHpQVFZNTFVVMU56SllOWEJoZGs5cVVTWm5jbTkxY0QxU2JrcHNXbFpPVkZWcE1YZGtWMHB6WVZkTgo=
+/*
+微信公众号：暗黑网络
+
+
+[rewrite_local]
+#辣椒解锁会员去广告
+^http:\/\/jk\.5apk\.cn\/api\/(base|modulesData|reg|play) url script-response-body lajiao.js
+
+[mitm]
+hostname= jk.5apk.cn
+
+辣椒下载地址：
+http://v.sj6.live/?code=S48DGK
+
+*/
+
+
+
+var body = $response.body;
+var url = $request.url;
+var obj = JSON.parse(body);
+
+const p1 = '/base';
+const p2 = '/modulesData';
+const p3 = '/reg';
+const p4 = '/play';
+
+if (url.indexOf(p1) != -1) {
+    obj.data.advertising = [{}],
+    body = JSON.stringify(obj);
+} 
+if (url.indexOf(p2) != -1) {
+    obj.data.ad = [],
+    body = JSON.stringify(obj);
+} 
+if (url.indexOf(p3) != -1) {
+    obj.data.member.is_vip = 1,
+    obj.data.member.vip_date = "2099-09-09",
+    obj.data.member.nick_name = "暗黑网络",
+    obj.data.member.level_id = 6,
+    body = JSON.stringify(obj);
+} 
+if (url.indexOf(p4) != -1) {
+    obj.data.notMore = 0,
+    obj.data.isread = 0,
+    body = JSON.stringify(obj);
+} 
+$done({body});
+
